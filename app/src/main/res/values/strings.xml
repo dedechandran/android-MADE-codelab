@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MyFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="move_to_category">MOVE TO CATEGORY</string>
+    <string name="hello_category_fragment">Hello Category Fragment</string>
+    <string name="detail_category">DETAIL CATEGORY</string>
 </resources>
